@@ -3,7 +3,7 @@
 * @Date:   2016-07-26T08:51:46+08:00
 * @Email:  lisnb.h@hotmail.com
 * @Last modified by:   lisnb
-* @Last modified time: 2016-07-26T13:30:36+08:00
+* @Last modified time: 2016-07-26T22:59:09+08:00
 */
 
 .whoweare {
@@ -52,6 +52,11 @@
   padding-right: 3px;
 }
 
+.captain {
+  color: #B1191A;
+  font-size: 0.8em;
+}
+
 .title {
   color: #157877;
   font-size: 0.8em;
@@ -68,4 +73,5 @@
 .slogan {
   color: rgb(180, 180, 180);
   font-size: 0.9em;
+  padding-top: 0.5em;
 }
