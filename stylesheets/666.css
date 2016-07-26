@@ -1,0 +1,71 @@
+/**
+* @Author: lisnb
+* @Date:   2016-07-26T08:51:46+08:00
+* @Email:  lisnb.h@hotmail.com
+* @Last modified by:   lisnb
+* @Last modified time: 2016-07-26T13:30:36+08:00
+*/
+
+.whoweare {
+  padding-top: 10px;
+}
+
+.person-wall {
+  width: 100%;
+}
+
+.person {
+  width: 100%;
+  /*display: inline;*/
+  padding-bottom: 20px;
+}
+
+.avatar {
+  display: inline-block;
+  width: 20%;
+  max-width: 100px;
+}
+
+.avatar > img {
+  width: 100%;
+  /*height: 6em;*/
+}
+
+.info-wrapper {
+  box-sizing: border-box;
+  display: inline;
+  float:right;
+  width: 80%;
+}
+.info {
+  padding-left: 20px;
+}
+
+.name {
+  color: #156789;
+  padding-right: 5px;
+}
+
+.from {
+  color: #157877;
+  font-size: 0.8em;
+  padding-right: 3px;
+}
+
+.title {
+  color: #157877;
+  font-size: 0.8em;
+}
+
+.hobby-item {
+  color: #07C011;
+  background-color: rgb(212,211,210);
+  padding: 1px 3px;
+  font-size: 0.8em;
+  border-radius: 2px;
+}
+
+.slogan {
+  color: rgb(180, 180, 180);
+  font-size: 0.9em;
+}
